@@ -1,3 +1,5 @@
 *.bd
 *.db
 .env
+
+stone-test
